@@ -1,0 +1,18 @@
+{
+  "name": "domain-expiry-contract-codes-sample",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@ethersproject/bytes": "^5.7.0",
+    "js-sha3": "^0.9.3",
+    "web3": "^4.13.0",
+    "web3-providers-http": "^4.2.0"
+  }
+}
